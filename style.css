@@ -1,0 +1,29 @@
+
+.email{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    
+}
+.password{
+    width: 467px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #610000;
+    border: 1px solid #FF0000;
+}
+.number{
+    width: 541px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #A8AB00;
+    color: #A8AB00;
+}
+.text{
+    width: 315px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #292828;
+    border: 2px solid #F9FE03;
+}
